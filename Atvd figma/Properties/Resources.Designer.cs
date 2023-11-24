@@ -63,9 +63,39 @@ namespace Atvd_figma.Properties {
         /// <summary>
         ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap Frame_1 {
+        internal static System.Drawing.Bitmap Frame_1__5_ {
             get {
-                object obj = ResourceManager.GetObject("Frame 1", resourceCulture);
+                object obj = ResourceManager.GetObject("Frame 1 (5)", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Frame_Empressa {
+            get {
+                object obj = ResourceManager.GetObject("Frame Empressa", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Frame_Funcionário {
+            get {
+                object obj = ResourceManager.GetObject("Frame Funcionário", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Frame_Menu {
+            get {
+                object obj = ResourceManager.GetObject("Frame Menu", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

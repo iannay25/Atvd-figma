@@ -25,6 +25,7 @@ public class Cpf
         if (res < 2)
         { res = 0; }
 
+
         else
         { res = 11 - res; }
 
